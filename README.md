@@ -1,1 +1,1 @@
-Baigiamasis "FloraAI" kurso darbas - "Emocijų identifikacija". Projektas su CNN, kurio tikslas sukurti kompiuterinės regos tinklą, gebantį fiksuoti ir nustatyti vizualiąją žmogaus emociją. Autoriai: Kristupas P. ir Lukas U. 12/2022
+Baigiamasis "Dirbtinio intelekto technologijos ir išmanioji augalininkystė" kurso darbas - "Emocijų identifikacija". Projektas su CNN, kurio tikslas sukurti kompiuterinės regos tinklą, gebantį fiksuoti ir nustatyti vizualiąją žmogaus emociją. Autoriai: Kristupas P. ir Lukas U. 12/2022
